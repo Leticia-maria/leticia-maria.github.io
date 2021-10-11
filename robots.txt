@@ -1,0 +1,4 @@
+Sitemap: https://Leticia-maria.github.io/myWebsite/sitemap.xml
+
+User-agent: *
+Disallow:
